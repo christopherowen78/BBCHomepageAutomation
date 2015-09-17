@@ -3,7 +3,7 @@ package automationFramework;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class FirstTestCase {
+public class HomePageTest {
 
 	public static void main(String[] args) throws InterruptedException {
 		// Create a new instance of the Firefox driver
